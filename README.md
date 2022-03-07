@@ -1,1 +1,1 @@
-# Email-Phishing-Detection-__-CS295P
+# CS295P Email-Phishing-Detection
