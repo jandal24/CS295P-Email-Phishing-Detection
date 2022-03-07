@@ -8,3 +8,5 @@
 - **PhishingURL.ipynb:** This notebook trains and creates the model that is able to URLs as phishing or not. Make sure to have the data **phishing_site_url.csv** and update the path to where this file is placed. This model uses Logistic Regression to detect common patterns in most phishing URLs. There is a section to test out performance of the trained model.
  
 - **URL_prototype.ipynb:** This notebook is the prototype to show how to use the model created from **PhishingURL.ipynb**. Make sure to have the created model path updated. You will be able to input any type of URL to see if the URL is a phishing site or not. 
+
+- **Data.zip:** Zip file containing the necessary data to train the models above. 
