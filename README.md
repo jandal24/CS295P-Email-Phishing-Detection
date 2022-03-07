@@ -10,3 +10,11 @@
 - **URL_prototype.ipynb:** This notebook is the prototype to show how to use the model created from **PhishingURL.ipynb**. Make sure to have the created model path updated. You will be able to input any type of URL to see if the URL is a phishing site or not. 
 
 - **Data.zip:** Zip file containing the necessary data to train the models above. 
+
+
+# Trained Model
+
+This link you should find our baseline trained models. 
+https://drive.google.com/drive/folders/1U4ZKMbei1owrBHgZPSz0yDJogYAEkVZu?usp=sharing
+
+
