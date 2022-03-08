@@ -16,7 +16,7 @@ Files are found in the code folder
 
 # Trained Models
 
-This link you should find our baseline trained models. 
+This link includes our baseline trained models. 
 
 https://drive.google.com/drive/folders/1U4ZKMbei1owrBHgZPSz0yDJogYAEkVZu?usp=sharing
 
