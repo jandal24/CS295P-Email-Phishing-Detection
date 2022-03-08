@@ -21,3 +21,10 @@ This link includes our baseline trained models.
 https://drive.google.com/drive/folders/1U4ZKMbei1owrBHgZPSz0yDJogYAEkVZu?usp=sharing
 
 
+# Data
+
+**phishing_site_urls.csv:** In this file are a column of URLs and a column with each URLs classification as good or bad. 
+
+**phishingtxt.csv:** In this file are a column of email messages and a column containing whether they are phishing (1) messages or not (0).
+
+
